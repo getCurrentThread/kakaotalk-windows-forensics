@@ -1,0 +1,44 @@
+Copyright (c) 2026 getCurrentThread <wak8835@gmail.com>. All rights reserved.
+
+================================================================================
+PROPRIETARY AND CLOSED SOURCE LICENSE NOTICE
+독점 및 오픈소스화 금지 라이선스 고지
+================================================================================
+
+본 저장소의 모든 저작물(연구 원고, 문서, 소스 코드, 분석 데이터 및 스크립트 일체)에 대한
+저작권 및 모든 지식재산권은 원저작자(getCurrentThread <wak8835@gmail.com>)에게 있습니다.
+
+[주요 제한 사항]
+1. 오픈소스화 금지 (No Open-Source Conversion):
+   본 소프트웨어, 문서 및 연구 결과물의 전체 또는 일부를 오픈소스 라이선스(GPL, MIT, Apache,
+   BSD 등 일체의 오픈소스 라이선스)로 전환, 배포, 공개하거나 기타 오픈소스 프로젝트에 포함시키는
+   행위를 엄격히 금지합니다.
+
+2. 무단 복제 및 재배포 금지 (No Redistribution):
+   저작권자의 사전 서면 허가 없이 본 저작물의 전부 또는 일부를 복제, 수정, 번역, 2차적 저작물 작성,
+   재배포, 서브라이선스 부여, 대여 또는 상업적/비상업적 목적으로 활용할 수 없습니다.
+
+3. 포크 및 열람 범위:
+   호스팅 플랫폼(예: GitHub) 상에서 제공되는 단순 열람 및 플랫폼 내 개인적 참조 외에,
+   외부로의 무단 반출, 2차 배포 또는 독자적인 오픈소스 프로젝트 파생은 허용되지 않습니다.
+
+--------------------------------------------------------------------------------
+TERMS IN ENGLISH:
+
+This repository, including all research manuscripts, documentation, source code,
+analysis scripts, and datasets, is proprietary and confidential.
+
+No person or entity may:
+1. Convert, merge, link, distribute, or license any part of this work under any
+   open-source license (including but not limited to MIT, Apache, GPL, BSD, etc.).
+2. Copy, modify, adapt, translate, publish, sublicense, sell, or publicly redistribute
+   copies of this work, in whole or in part, without explicit prior written permission
+   from the copyright holder.
+3. Create derivative works based on this research or repository.
+
+THE SOFTWARE AND RESEARCH MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS
+OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH
+THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
